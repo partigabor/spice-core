@@ -1,0 +1,110 @@
+    Afrikaans: kaneel
+    Albanian: kanellë (sq) f
+    Amharic: ቀረፋ (ḳäräfa)
+    Arabic: قِرْفَة‎ f (qirfa)
+
+        Egyptian Arabic: قرفة‎ f (ʾerfa)
+        Gulf Arabic: دارسين‎ m (dārsīn)
+        Hijazi Arabic: قرفة‎ f (girfa)
+
+    Aramaic:
+
+        Jewish Babylonian Aramaic: דַּרְצִינִי‎ (darṣīnī)
+
+    Armenian: դարչին (hy) (darčʿin)
+
+        Old Armenian: դարիճենիկ (daričenik), կինամոմոն (kinamomon)
+
+    Azerbaijani: darçın (az)
+    Belarusian: кары́ца f (karýca), цынамо́н m (cynamón) (taraškievica)
+    Breton: kanell m
+    Brunei Malay: kayu manis
+    Bulgarian: кане́ла (bg) f (kanéla)
+    Burmese: သစ်ကြံပိုး (my) (sackrampui:)
+    Catalan: canyella (ca) f, canella (ca) f
+    Chinese: rou4gui4 (肉桂)
+
+        Cantonese: 肉桂 (juk6 gwai3)
+        Mandarin: 肉桂 (zh) (ròuguì)
+
+    Crimean Tatar: tarçın
+    Czech: skořice (cs) f
+    Danish: kanel (da) c
+    Dutch: kaneel (nl) n
+    Esperanto: cinamo
+    Estonian: kaneel
+    Faroese: kanel n
+    Finnish: kaneli (fi)
+    French: cannelle (fr) f
+    Galician: canela (gl) f
+    Georgian: დარიჩინი (daričini)
+    German: Zimt (de) m, Kaneel m
+    Greek: κανέλα (el) f (kanéla)
+
+        Ancient: κιννάμωμον n (kinnámōmon)
+
+    Hausa: kirfa (ha)
+    Hebrew: קינמון \ קִנָּמוֹן‎ (he) m (kinamón)
+    Hindi: दारचीनी (hi) f (dārcīnī)
+    Hungarian: fahéj (hu)
+    Icelandic: kanill (is) m, kanell m
+    Indonesian: kayumanis
+    Irish: cainéal m
+    Italian: cannella (it) f
+    Japanese: シナモン (ja) (shinamon), 肉桂 (nikki, nikkei)
+    Kabuverdianu: kanéla
+
+		
+
+    Kannada: ದಾಲ್ಚಿನ್ನಿ (kn) (dālcinni)
+    Kazakh: даршын (darşın)
+    Korean: 계피 (ko) (gyepi), 시나몬 (sinamon)
+    Kurdish:
+
+        Central Kurdish: دارچین‎ (ku) (darçîn)
+        Northern Kurdish: darçîn (ku)
+
+    Kyrgyz: корица (qoritsa)
+    Latin: cinnamōmum n, cinnamum n
+    Latvian: kanēlis
+    Lithuanian: cinamonas m
+    Low German: Kaneel (nds) m
+    Macedonian: цимет m (cimet)
+    Malay: kayu manis, kulit kayu manis
+    Malayalam: കറുവപ്പട്ട (kaṟuvappaṭṭa)
+    Maori: hinamona
+    Navajo: tó wónaanídę́ę́ʼ tsin bikáshtʼóózh bitáʼahí bił éʼélʼíní
+    Norman: cannelle f
+    Norwegian: kanel (no)
+    Occitan: canèla (oc) f
+    Persian: دارچین‎ (fa) (dârčin)
+    Polish: cynamon (pl) m
+    Portuguese: canela (pt) f
+    Romanian: scorțișoară (ro) f
+    Russian: кори́ца (ru) f (koríca)
+    Sanskrit: दारुचिनी (sa) f (dārucinī)
+    Serbo-Croatian:
+
+        Cyrillic: цимет m
+        Roman: cimet (sh) m
+
+    Slovak: škorica (sk) f
+    Slovene: cimet (sl) m
+    Spanish: canela (es) f
+    Swahili: dalasini
+    Swedish: kanel (sv) c
+    Tagalog: kanela
+    Tajik: дорчин (dorčin)
+    Tatar: дарчин (tt) (darçin)
+    Thai: อบเชย (òp-chəəi)
+    Tigrinya: ቃርፋ (ḳarfa)
+    Turkish: tarçın (tr)
+    Turkmen: darçyn
+    Ukrainian: кори́ця (uk) f (korýcja), цинамо́н (uk) m (cynamón)
+    Urdu: دارچینی‎ f (dārcīnī)
+    Uyghur: دارچىن‎ (darchin)
+    Uzbek: dolchin (uz), koritsa
+    Vietnamese: quế (vi)
+    Volapük: kirfat
+    Welsh: synamon m
+    Yiddish: צימרינג‎ m (tsimring), צימערינג‎ m (tsimering)

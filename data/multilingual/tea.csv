@@ -1,0 +1,231 @@
+,Unnamed: 0,iso,glcode,name,lat,lon,genus,family,macroarea,country,tea,level,from
+1,1,nmn,xooo1239,!Xóõ,-24.0,21.5,Tu,Tu,Africa,BW,te,language,wals1
+9,9,abq,abaz1241,Abaza,44.0,42.0,Northwest Caucasian,Northwest Caucasian,Eurasia,RU,cha,language,wals1
+16,16,ace,achi1257,Acehnese,5.5,95.5,Malayo-Sumbawan,Austronesian,Eurasia,ID,te,language,wals1
+34,34,afr,afri1274,Afrikaans,-31.0,22.0,Germanic,Indo-European,Africa,ZA,te,language,wals1
+43,43,aht,ahte1237,Ahtna,62.0,-145.0,Athapaskan,Na-Dene,North America,US,cha,language,wals1
+61,61,akz,alab1237,Alabama,32.3333333333,-87.4166666667,Muskogean,Muskogean,North America,US,other,language,wals1
+66,66,aln,tosk1239,Albanian,41.0,20.0,Albanian,Indo-European,Eurasia,AL RS,cha,language,wals1
+72,72,gsw,swis1247,Alsatian,48.5,7.5,Germanic,Indo-European,Eurasia,FR,te,language,wals1
+91,91,amh,amha1245,Amharic,10.0,38.0,Semitic,Afro-Asiatic,Africa,ET,cha,language,wals1
+131,131,arz,egyp1253,Arabic (Egyptian),30.0,31.0,Semitic,Afro-Asiatic,Africa,EG,cha,language,wals1
+159,159,hye,nucl1235,Armenian (Eastern),40.0,45.0,Armenian,Indo-European,Eurasia,AM,te,language,wals1
+168,168,asm,assa1263,Assamese,26.0,93.0,Indic,Indo-European,Eurasia,IN,cha,language,wals1
+169,169,ast,astu1245,Asturian,43.25,-6.0,Romance,Indo-European,Eurasia,ES,te,language,wals1
+173,173,tay,atay1247,Atayal,24.5,121.333333333,Atayalic,Austronesian,Papunesia,TW,other,language,wals1
+198,198,azb,nort2697,Azerbaijani,40.5,48.5,Turkic,Altaic,Eurasia,AZ IR,cha,language,wals1
+203,203,bfq,bada1257,Badaga,11.6666666667,76.75,Southern Dravidian,Dravidian,Eurasia,IN,te,language,wals1
+231,231,ban,bali1278,Balinese,-8.33333333333,115.25,Malayo-Sumbawan,Austronesian,Papunesia,ID,te,language,wals1
+233,233,bgp,east2304,Baluchi,28.0,62.0,Iranian,Indo-European,Eurasia,PK IR AF,cha,language,wals1
+236,236,bam,bamb1269,Bambara,12.5,-7.5,Western Mande,Mande,Africa,ML,other,language,wals1
+269,269,bak,bash1264,Bashkir,53.0,58.0,Turkic,Altaic,Eurasia,RU,cha,language,wals1
+270,270,eus,basq1248,Basque,43.0,-3.0,Basque,Basque,Eurasia,FR ES,cha,language,wals1
+298,298,bel,bela1254,Belorussian,54.0,28.0,Slavic,Indo-European,Eurasia,BY,cha,language,wals1
+304,304,ben,beng1280,Bengali,24.0,90.0,Indic,Indo-European,Eurasia,IN BD,cha,language,wals1
+311,311,tzm,cent2194,Berber (Middle Atlas),33.0,-5.0,Berber,Afro-Asiatic,Africa,MA,other,language,wals1
+374,374,bre,bret1244,Breton,48.0,-3.0,Celtic,Indo-European,Eurasia,FR,te,language,wals1
+379,379,bru,east2332,Bru (Eastern),17.3333333333,106.0,Katuic,Austro-Asiatic,Eurasia,LA,te,language,wals1
+392,392,bul,bulg1262,Bulgarian,42.5,25.0,Slavic,Indo-European,Eurasia,BG,cha,language,wals1
+402,402,bxm,mong1330,Buriat,52.0,108.0,Mongolic,Altaic,Eurasia,MN RU CN,cha,language,wals1
+403,403,bji,burj1242,Burji,5.5,37.8333333333,Lowland East Cushitic,Afro-Asiatic,Africa,ET,cha,language,wals1
+404,404,mya,nucl1310,Burmese,21.0,96.0,Burmese-Lolo,Sino-Tibetan,Eurasia,MM,other,language,wals1
+408,408,bsk,buru1296,Burushaski,36.5,74.5,Burushaski,Burushaski,Eurasia,PK,cha,language,wals1
+426,426,yue,yuec1235,Cantonese,23.0,113.0,Chinese,Sino-Tibetan,Eurasia,CN,cha,language,wals1
+436,436,cat,stan1289,Catalan,41.75,2.0,Romance,Indo-European,Eurasia,ES,te,language,wals1
+443,443,ceb,cebu1242,Cebuano,10.0,124.0,Greater Central Philippine,Austronesian,Papunesia,PH,cha,language,wals1
+448,448,cjm,east2563,Cham (Eastern),11.3333333333,108.5,Malayo-Sumbawan,Austronesian,Eurasia,VN,cha,language,wals1
+452,452,cha,cham1312,Chamorro,13.45,144.75,Chamorro,Austronesian,Papunesia,GU,cha,language,wals1
+454,454,chx,chan1310,Chantyal,28.5833333333,83.4166666667,Bodic,Sino-Tibetan,Eurasia,NP,cha,language,wals1
+464,464,che,chec1245,Chechen,43.25,45.8333333333,Nakh,Nakh-Daghestanian,Eurasia,RU,cha,language,wals1
+468,468,ute,utes1238,Chemehuevi,34.3333333333,-115.166666667,Numic,Uto-Aztecan,North America,US,te,language,wals1
+470,470,chr,cher1273,Cherokee,35.5,-83.5,Southern Iroquoian,Iroquoian,North America,US,other,language,wals1
+471,471,chy,chey1247,Cheyenne,47.0,-95.0,Algonquian,Algic,North America,US,other,language,wals1
+472,472,nya,nyan1308,Chichewa,-14.0,34.0,Bantoid,Niger-Congo,Africa,ZW MW ZM MZ,te,language,wals1
+492,492,chp,chip1261,Chipewyan,59.0,-106.0,Athapaskan,Na-Dene,North America,CA,te,language,wals1
+506,506,crw,chra1242,Chrau,10.75,107.5,Bahnaric,Austro-Asiatic,Eurasia,VN,cha,language,wals1
+507,507,cje,chru1239,Chru,11.5,108.5,Malayo-Sumbawan,Austronesian,Eurasia,VN,te,language,wals1
+517,517,chv,chuv1255,Chuvash,55.5,47.5,Turkic,Altaic,Eurasia,RU,cha,language,wals1
+523,523,coc,coco1261,Cocopa,32.3333333333,-115.0,Yuman,Hokan,North America,MX US,te,language,wals1
+531,531,swb,maor1244,Comorian,-12.0,44.0,Bantoid,Niger-Congo,Africa,KM YT,cha,language,wals1
+537,537,crk,plai1258,Cree (Plains),54.0,-110.0,Algonquian,Algic,North America,CA,other,language,wals1
+542,542,cua,cuaa1241,Cua,15.25,108.5,Bahnaric,Austro-Asiatic,Eurasia,VN,te,language,wals1
+551,551,ces,czec1258,Czech,50.0,15.0,Slavic,Indo-European,Eurasia,CZ,cha,language,wals1
+559,559,dga,sout2789,Dagaare,10.5,-2.66666666667,Gur,Niger-Congo,Africa,GH BF,te,language,wals1
+562,562,dal,daha1245,Dahalo,-2.33333333333,40.5,Dahalo,Afro-Asiatic,Africa,KE,cha,language,wals1
+570,570,dan,dani1285,Danish,56.0,10.0,Germanic,Indo-European,Eurasia,DK,te,language,wals1
+591,591,div,dhiv1236,Dhivehi,4.16666666667,73.5,Indic,Indo-European,Eurasia,MV,cha,language,wals1
+601,601,dip,nort2815,Dinka,8.5,28.0,Nilotic,Eastern Sudanic,Africa,SD,cha,language,wals1
+602,602,dyo,jola1263,Diola-Fogny,13.0,-16.25,Northern Atlantic,Niger-Congo,Africa,GM SN,te,language,wals1
+627,627,dua,dual1243,Duala,4.0,9.41666666667,Bantoid,Niger-Congo,Africa,CM,te,language,wals1
+637,637,nld,dutc1256,Dutch,52.5,6.0,Germanic,Indo-European,Eurasia,NL,te,language,wals1
+664,664,eng,stan1293,English,52.0,0.0,Germanic,Indo-European,Eurasia,GB IE,te,language,wals1
+671,671,est,esto1258,Estonian,59.0,26.0,Finnic,Uralic,Eurasia,EE,te,language,wals1
+674,674,eve,even1260,Even,68.0,130.0,Tungusic,Altaic,Eurasia,RU,cha,language,wals1
+675,675,evn,even1259,Evenki,56.0,125.0,Tungusic,Altaic,Eurasia,RU,cha,language,wals1
+676,676,ewe,ewee1241,Ewe,6.33333333333,0.416666666667,Kwa,Niger-Congo,Africa,TG GH,te,language,wals1
+678,678,ewo,ewon1239,Ewondo,4.0,12.0,Bantoid,Niger-Congo,Africa,CM,te,language,wals1
+685,685,fin,finn1318,Finnish,62.0,25.0,Finnic,Uralic,Eurasia,FI,te,language,wals1
+694,694,fra,stan1290,French,48.0,2.0,Romance,Indo-European,Eurasia,CH FR,te,language,wals1
+699,699,fuh,west2454,Ful (Liptako),13.5,0.5,Northern Atlantic,Niger-Congo,Africa,BF,other,language,wals1
+701,701,fub,adam1253,Fula (Cameroonian),9.16666666667,13.5,Northern Atlantic,Niger-Congo,Africa,CM,cha,language,wals1
+728,728,kld,gami1243,Gamilaraay,-29.8333333333,149.5,Southeastern Pama-Nyungan,Pama-Nyungan,Australia,AU,te,language,wals1
+743,743,kat,nucl1302,Georgian,42.0,44.0,Kartvelian,Kartvelian,Eurasia,GE,cha,language,wals1
+744,744,deu,stan1295,German,52.0,10.0,Germanic,Indo-European,Eurasia,AT DE CH,te,language,wals1
+779,779,gor,goro1259,Gorontalo,0.5,122.0,Greater Central Philippine,Austronesian,Papunesia,ID,te,language,wals1
+784,784,ell,mode1248,Greek (Modern),39.0,22.0,Greek,Indo-European,Eurasia,GR,cha,language,wals1
+789,789,gcf,guad1242,Guadeloupe Creole,16.25,-61.5,Creoles and Pidgins,other,North America,GP,te,language,wals1
+796,796,gug,para1311,Guaraní,-26.0,-56.0,Tupi-Guaraní,Tupian,South America,PY,te,language,wals1
+808,808,guj,guja1252,Gujarati,23.0,72.0,Indic,Indo-European,Eurasia,IN,cha,language,wals1
+857,857,hau,haus1257,Hausa,12.0,7.0,West Chadic,Afro-Asiatic,Africa,NG NE,cha,language,wals1
+859,859,haw,hawa1245,Hawaiian,19.5833333333,-155.5,Oceanic,Austronesian,Papunesia,US,other,language,wals1
+866,866,heb,hebr1245,Hebrew (Modern),31.5,34.8333333333,Semitic,Afro-Asiatic,Eurasia,IL,te,language,wals1
+873,873,hil,hili1240,Hiligaynon,10.25,123.0,Greater Central Philippine,Austronesian,Papunesia,PH,cha,language,wals1
+874,874,hin,hind1269,Hindi,25.0,77.0,Indic,Indo-European,Eurasia,IN,cha,language,wals1
+887,887,hre,hree1244,Hre,14.6666666667,108.666666667,Bahnaric,Austro-Asiatic,Eurasia,VN,te,language,wals1
+899,899,hun,hung1274,Hungarian,47.0,20.0,Ugric,Uralic,Eurasia,HU,te,language,wals1
+911,911,isl,icel1247,Icelandic,65.0,-17.0,Germanic,Indo-European,Eurasia,IS,te,language,wals1
+933,933,ind,indo1316,Indonesian,0.0,106.0,Malayo-Sumbawan,Austronesian,Papunesia,ID,te,language,wals1
+938,938,inh,ingu1240,Ingush,43.1666666667,45.0833333333,Nakh,Nakh-Daghestanian,Eurasia,RU,cha,language,wals1
+948,948,gle,iris1253,Irish,53.0,-8.0,Celtic,Indo-European,Eurasia,IE,te,language,wals1
+958,958,ita,ital1282,Italian,43.0,12.0,Romance,Indo-European,Eurasia,IT CH,te,language,wals1
+977,977,esi,nort2943,Iñupiaq,67.0,-161.0,Eskimo,Eskimo-Aleut,North America,US,other,language,wals1
+987,987,jpn,nucl1643,Japanese,37.0,140.0,Japanese,Japanese,Eurasia,JP,cha,language,wals1
+993,993,jav,java1254,Javanese,-7.0,111.0,Javanese,Austronesian,Papunesia,ID,te,language,wals1
+1009,1009,bex,jurm1239,Jur Mödö,6.0,30.0,Bongo-Bagirmi,Central Sudanic,Africa,SD,cha,language,wals1
+1012,1012,ktz,juho1239,Ju|'hoan,-19.0,21.0,Ju-Kung,Kxa,Africa,BW AO NA,te,language,wals1
+1015,1015,kbd,kaba1278,Kabardian,43.5,43.5,Northwest Caucasian,Northwest Caucasian,Eurasia,RU,cha,language,wals1
+1019,1019,kab,kaby1243,Kabyle,36.5,5.0,Berber,Afro-Asiatic,Africa,DZ,other,language,wals1
+1040,1040,xal,kalm1243,Kalmyk,44.0,83.0,Mongolic,Altaic,Eurasia,RU CN MN,cha,language,wals1
+1066,1066,knc,cent2050,Kanuri,12.0,13.0,Western Saharan,Saharan,Africa,NE TD NG SD,te,language,wals1
+1074,1074,kdr,kara1464,Karaim,54.6666666667,24.9166666667,Turkic,Altaic,Eurasia,LT UA,cha,language,wals1
+1076,1076,kaa,kara1467,Karakalpak,43.0,60.0,Turkic,Altaic,Eurasia,UZ,cha,language,wals1
+1084,1084,ksw,sgaw1245,Karen (Sgaw),18.0,97.0,Karen,Sino-Tibetan,Eurasia,MM,other,language,wals1
+1091,1091,kyh,karo1304,Karok,41.6666666667,-123.0,Karok,Karok,North America,US,other,language,wals1
+1117,1117,kaz,kaza1248,Kazakh,50.0,70.0,Turkic,Altaic,Eurasia,KZ,cha,language,wals1
+1128,1128,,,Kenyah (Uma' Lung),3.0,115.833333333,North Borneo,Austronesian,,ID,te,language,wals1
+1135,1135,ket,kett1243,Ket,64.0,87.0,Yeniseian,Yeniseian,Eurasia,RU,other,language,wals1
+1140,1140,kjh,khak1248,Khakas,53.0,90.0,Turkic,Altaic,Eurasia,RU,cha,language,wals1
+1143,1143,khk,halh1238,Khalkha,47.0,105.0,Mongolic,Altaic,Eurasia,MN,cha,language,wals1
+1149,1149,kha,khas1269,Khasi,25.5,92.0,Khasian,Austro-Asiatic,Eurasia,IN,cha,language,wals1
+1151,1151,khm,cent1989,Khmer,12.5,105.0,Khmer,Austro-Asiatic,Eurasia,KH,te,language,wals1
+1160,1160,kik,kiku1240,Kikuyu,-0.75,36.75,Bantoid,Niger-Congo,Africa,KE,cha,language,wals1
+1168,1168,kin,kiny1244,Kinyarwanda,-2.0,30.0,Bantoid,Niger-Congo,Africa,RW,cha,language,wals1
+1172,1172,kir,kirg1245,Kirghiz,42.0,75.0,Turkic,Altaic,Eurasia,KG,cha,language,wals1
+1195,1195,kbk,gras1249,Koiari,-9.5,147.333333333,Koiarian,Trans-New Guinea,Papunesia,PG,te,language,wals1
+1214,1214,knn,konk1267,Konkani,15.25,74.0,Indic,Indo-European,Eurasia,IN,cha,language,wals1
+1224,1224,kor,kore1280,Korean,37.5,128.0,Korean,Korean,Eurasia,KP KR,cha,language,wals1
+1229,1229,kpy,kory1246,Koryak,61.0,167.0,Northern Chukotko-Kamchatkan,Chukotko-Kamchatkan,Eurasia,RU,cha,language,wals1
+1231,1231,kos,kosr1238,Kosraean,5.3,163.0,Oceanic,Austronesian,Papunesia,FM,te,language,wals1
+1237,1237,ses,koyr1242,Koyraboro Senni,16.0,0.0,Songhay,Songhay,Africa,ML NE,other,language,wals1
+1247,1247,kgo,kron1241,Krongo,10.5,30.0,Kadugli,Kadu,Africa,SD,cha,language,wals1
+1263,1263,kum,kumy1244,Kumyk,43.0,47.3333333333,Turkic,Altaic,Eurasia,RU,cha,language,wals1
+1267,1267,kjn,kunj1245,Kunjen,-16.5,142.5,Northern Pama-Nyungan,Pama-Nyungan,Australia,AU,other,language,wals1
+1271,1271,kmr,nort2641,Kurmanji,38.0,42.0,Iranian,Indo-European,Eurasia,TR,cha,language,wals1
+1299,1299,lbj,lada1244,Ladakhi,34.0,78.0,Bodic,Sino-Tibetan,Eurasia,IN,other,language,wals1
+1317,1317,ljp,lamp1243,Lampung,-5.0,105.0,Lampungic,Austronesian,Papunesia,ID,te,language,wals1
+1324,1324,lao,laoo1244,Lao,18.0,103.0,Kam-Tai,Tai-Kadai,Eurasia,LA TH,other,language,wals1
+1328,1328,lav,latv1249,Latvian,57.0,24.0,Baltic,Indo-European,Eurasia,LV,te,language,wals1
+1346,1346,acf,guad1242,Lesser Antillean French Creole,15.0,-61.1666666667,Creoles and Pidgins,other,North America,GP TT GY LC DM GD MQ,cha,language,wals1
+1355,1355,lin,ling1263,Lingala,2.0,18.5,Bantoid,Niger-Congo,Africa,CD,te,language,wals1
+1358,1358,lis,lisu1250,Lisu,26.0,98.0,Burmese-Lolo,Sino-Tibetan,Eurasia,CN MM,other,language,wals1
+1359,1359,lit,lith1251,Lithuanian,55.0,24.0,Baltic,Indo-European,Eurasia,LT,other,language,wals1
+1367,1367,los,loni1238,Loniu,-2.06666666667,147.333333333,Oceanic,Austronesian,Papunesia,PG,other,language,wals1
+1377,1377,lug,gand1255,Luganda,0.5,32.1666666667,Bantoid,Niger-Congo,Africa,UG,cha,language,wals1
+1386,1386,luo,luok1236,Luo,-0.5,34.75,Nilotic,Eastern Sudanic,Africa,TZ KE,cha,language,wals1
+1392,1392,ltz,luxe1241,Luxemburgeois,49.8333333333,6.16666666667,Germanic,Indo-European,Eurasia,LU,te,language,wals1
+1414,1414,mad,nucl1460,Madurese,-7.0,113.5,Malayo-Sumbawan,Austronesian,Papunesia,ID,te,language,wals1
+1432,1432,mak,maka1311,Makassar,-5.41666666667,119.583333333,South Sulawesi,Austronesian,Papunesia,ID,te,language,wals1
+1437,1437,plt,plat1254,Malagasy,-20.0,47.0,Barito,Austronesian,Africa,MG,te,language,wals1
+1442,1442,mal,mala1464,Malayalam,10.0,76.5,Southern Dravidian,Dravidian,Eurasia,IN,cha,language,wals1
+1446,1446,mlt,malt1254,Maltese,35.9166666667,14.4166666667,Semitic,Afro-Asiatic,Eurasia,MT,te,language,wals1
+1465,1465,cmn,mand1415,Mandarin,34.0,110.0,Chinese,Sino-Tibetan,Eurasia,CN,cha,language,wals1
+1485,1485,mri,maor1246,Maori,-40.0,176.0,Oceanic,Austronesian,Papunesia,NZ,te,language,wals1
+1490,1490,zmr,mara1386,Maranungku,-13.6666666667,130.0,Wagaydy,Western Daly,Australia,AU,other,language,wals1
+1491,1491,mar,mara1378,Marathi,19.0,76.0,Indic,Indo-European,Eurasia,IN,cha,language,wals1
+1496,1496,mhr,east2328,Mari (Meadow),57.0,48.0,Mari,Uralic,Eurasia,RU,cha,language,wals1
+1503,1503,mah,mars1254,Marshallese,7.11666666667,171.05,Oceanic,Austronesian,Papunesia,MH,te,language,wals1
+1536,1536,myb,mbay1241,Mbay,8.25,17.5,Bongo-Bagirmi,Central Sudanic,Africa,TD,cha,language,wals1
+1555,1555,mwv,ment1249,Mentawai,-1.5,99.0,Northwest Sumatra-Barrier Islands,Austronesian,Papunesia,ID,te,language,wals1
+1574,1574,min,mina1268,Minangkabau,-1.0,101.0,Malayo-Sumbawan,Austronesian,Papunesia,ID,te,language,wals1
+1588,1588,skd,sout2985,Miwok (Southern Sierra),37.5,-120.0,Miwok,Penutian,North America,US,te,language,wals1
+1622,1622,ron,roma1327,Moldavian,47.0,29.0,Romance,Indo-European,Eurasia,MD,cha,language,wals1
+1640,1640,myv,erzy1239,Mordvin (Erzya),53.0,45.5,Mordvin,Uralic,Eurasia,KZ RU,cha,language,wals1
+1715,1715,gld,nana1257,Nanai,49.5,137.0,Tungusic,Altaic,Eurasia,RU,cha,language,wals1
+1756,1756,nep,nepa1252,Nepali,28.0,85.0,Indic,Indo-European,Eurasia,NP,cha,language,wals1
+1760,1760,new,newa1246,Newari (Kathmandu),27.6666666667,85.5,Mahakiranti,Sino-Tibetan,Eurasia,NP,cha,language,wals1
+1811,1811,nog,noga1249,Noghay,44.0,46.0,Turkic,Altaic,Eurasia,RU,cha,language,wals1
+1818,1818,nob,norw1259,Norwegian,61.0,8.0,Germanic,Indo-European,Eurasia,NO,te,language,wals1
+1823,1823,kzh,kenu1236,Nubian (Dongolese),18.25,30.75,Nubian,Eastern Sudanic,Africa,SD,cha,language,wals1
+1828,1828,nut,nung1283,Nung (in Vietnam),21.9166666667,106.416666667,Kam-Tai,Tai-Kadai,Eurasia,VN,cha,language,wals1
+1844,1844,yly,nyal1254,Nyelâyu,-20.3333333333,164.333333333,Oceanic,Austronesian,Papunesia,NC,te,language,wals1
+1856,1856,oci,occi1239,Occitan,44.0,2.0,Romance,Indo-European,Eurasia,FR,te,language,wals1
+1864,1864,ciw,chip1241,Ojibwe (Minnesota),47.6666666667,-92.5,Algonquian,Algic,North America,US,other,language,wals1
+1881,1881,ori,nucl1284,Oriya,21.0,85.0,Indic,Indo-European,Eurasia,IN,cha,language,wals1
+1889,1889,hae,east2652,Oromo (Harar),9.0,42.0,Lowland East Cushitic,Afro-Asiatic,Africa,ET,cha,language,wals1
+1891,1891,gaz,west2721,Oromo (West-Central),9.0,37.0,Lowland East Cushitic,Afro-Asiatic,Africa,ET,cha,language,wals1
+1894,1894,oss,osse1243,Ossetic,43.0,44.0,Iranian,Indo-European,Eurasia,GE RU,cha,language,wals1
+1913,1913,pkn,paka1251,Pakanha,-14.5,142.416666667,Northern Pama-Nyungan,Pama-Nyungan,Australia,AU,other,language,wals1
+1924,1924,pan,panj1256,Panjabi,31.0,74.0,Indic,Indo-European,Eurasia,IN PK,cha,language,wals1
+1932,1932,pst,cent1973,Pashto,33.0,67.0,Iranian,Indo-European,Eurasia,AF PK,cha,language,wals1
+1933,1933,pqm,male1292,Passamaquoddy-Maliseet,45.0,-67.0,Algonquian,Algic,North America,US CA,other,language,wals1
+1946,1946,pes,west2369,Persian,32.0,54.0,Iranian,Indo-European,Eurasia,IR,cha,language,wals1
+1969,1969,pon,pohn1238,Pohnpeian,6.88333333333,158.25,Oceanic,Austronesian,Papunesia,FM,te,language,wals1
+1974,1974,pol,poli1260,Polish,52.0,20.0,Slavic,Indo-European,Eurasia,PL,other,language,wals1
+1985,1985,por,port1283,Portuguese,39.0,-8.0,Romance,Indo-European,Eurasia,PT,cha,language,wals1
+1989,1989,oci,occi1239,Provençal,44.0,6.0,Romance,Indo-European,Eurasia,FR,te,language,wals1
+2001,2001,aar,afar1241,Qafar,12.0,42.0,Lowland East Cushitic,Afro-Asiatic,Africa,ER ET DJ,cha,language,wals1
+2007,2007,quy,ayac1239,Quechua (Ayacucho),-14.0,-74.0,Quechuan,Quechuan,South America,PE,te,language,wals1
+2032,2032,rel,rend1243,Rendille,2.0,37.5,Lowland East Cushitic,Afro-Asiatic,Africa,KE,other,language,wals1
+2044,2044,rmo,sint1235,Romani (Burgenland),47.5,16.5,Indic,Indo-European,Eurasia,AT,te,language,wals1
+2045,2045,rmy,vlax1238,Romani (Kalderash),45.0,21.0,Indic,Indo-European,Eurasia,RS,other,language,wals1
+2046,2046,rmy,vlax1238,Romani (Lovari),47.0,21.5,Indic,Indo-European,Eurasia,RO HU,te,language,wals1
+2048,2048,,,Romani (Sepecides),38.25,27.0,Indic,Indo-European,,TR,cha,language,wals1
+2051,2051,roh,roma1326,Romansch,46.6666666667,9.16666666667,Romance,Indo-European,Eurasia,CH,te,language,wals1
+2070,2070,rus,russ1263,Russian,56.0,38.0,Slavic,Indo-European,Eurasia,RU,cha,language,wals1
+2078,2078,sme,nort2671,Saami (Northern),69.0,24.0,Saami,Uralic,Eurasia,NO FI SE,te,language,wals1
+2099,2099,sag,sang1328,Sango,5.0,18.0,Ubangi,Niger-Congo,Africa,CF,cha,language,wals1
+2135,2135,hrv,sout1528,Serbian-Croatian,44.0,19.0,Slavic,Indo-European,Eurasia,RS BA HR,cha,language,wals1
+2138,2138,sot,sout2807,Sesotho,-28.0,27.0,Bantoid,Niger-Congo,Africa,ZA LS,te,language,wals1
+2153,2153,bwo,boro1277,Shinassha,10.4166666667,36.1666666667,North Omotic,Afro-Asiatic,Africa,ET,cha,language,wals1
+2175,2175,snd,sind1272,Sindhi,26.0,69.0,Indic,Indo-European,Eurasia,PK IN,cha,language,wals1
+2176,2176,sin,sinh1246,Sinhala,7.0,80.5,Indic,Indo-European,Eurasia,LK,te,language,wals1
+2190,2190,slk,slov1269,Slovak,49.0,20.0,Slavic,Indo-European,Eurasia,SK,cha,language,wals1
+2191,2191,slv,slov1268,Slovene,46.0,15.0,Slavic,Indo-European,Eurasia,SI,cha,language,wals1
+2197,2197,som,soma1255,Somali,3.0,45.0,Lowland East Cushitic,Afro-Asiatic,Africa,SO,cha,language,wals1
+2200,2200,snk,soni1259,Soninke,15.0,-10.5,Western Mande,Mande,Africa,CI SN BF ML,other,language,wals1
+2212,2212,spa,stan1288,Spanish,40.0,-4.0,Romance,Indo-European,Eurasia,ES,te,language,wals1
+2217,2217,srn,sran1240,Sranan,5.83333333333,-55.3333333333,Creoles and Pidgins,other,South America,SR,te,language,wals1
+2231,2231,sun,sund1252,Sundanese,-7.0,107.0,Malayo-Sumbawan,Austronesian,Papunesia,ID,te,language,wals1
+2238,2238,swh,swah1253,Swahili,-6.5,39.0,Bantoid,Niger-Congo,Africa,TZ,cha,language,wals1
+2240,2240,swe,swed1254,Swedish,60.0,15.0,Germanic,Indo-European,Eurasia,FI SE,te,language,wals1
+2250,2250,tgl,taga1270,Tagalog,15.0,121.0,Greater Central Philippine,Austronesian,Papunesia,PH,cha,language,wals1
+2252,2252,tah,tahi1242,Tahitian,-17.6666666667,-149.583333333,Oceanic,Austronesian,Papunesia,PF,te,language,wals1
+2256,2256,,minn1241,Taiwanese,25.0,121.5,Chinese,Sino-Tibetan,Eurasia,TW,te,language,wals1
+2258,2258,tgk,taji1245,Tajik,38.6666666667,70.0,Iranian,Indo-European,Eurasia,TJ,cha,language,wals1
+2294,2294,tat,tata1255,Tatar,56.0,49.5,Turkic,Altaic,Eurasia,RU,cha,language,wals1
+2312,2312,tel,telu1262,Telugu,16.0,79.0,South-Central Dravidian,Dravidian,Eurasia,IN,te,language,wals1
+2337,2337,tha,thai1261,Thai,16.0,101.0,Kam-Tai,Tai-Kadai,Eurasia,TH,cha,language,wals1
+2349,2349,bod,tibe1272,Tibetan (Standard Spoken),30.0,91.0,Bodic,Sino-Tibetan,Eurasia,CN,cha,language,wals1
+2373,2373,tiw,tiwi1244,Tiwi,-11.5,131.0,Tiwian,Tiwian,Australia,AU,other,language,wals1
+2418,2418,tsn,tswa1253,Tswana,-24.0,26.0,Bantoid,Niger-Congo,Africa,BW ZA,te,language,wals1
+2435,2435,tun,tuni1252,Tunica,32.6666666667,-91.0,Tunica,Tunica,North America,US,other,language,wals1
+2441,2441,tur,nucl1301,Turkish,39.0,35.0,Turkic,Altaic,Eurasia,TR,cha,language,wals1
+2442,2442,tuk,turk1304,Turkmen,40.0,58.0,Turkic,Altaic,Eurasia,TM,cha,language,wals1
+2448,2448,tyv,tuvi1240,Tuvan,52.0,95.0,Turkic,Altaic,Eurasia,RU MN,cha,language,wals1
+2467,2467,udm,udmu1245,Udmurt,57.5,52.5,Permic,Uralic,Eurasia,RU,cha,language,wals1
+2469,2469,ukr,ukra1253,Ukrainian,49.0,33.0,Slavic,Indo-European,Eurasia,UA,cha,language,wals1
+2496,2496,uig,uigh1240,Uyghur,40.0,80.0,Turkic,Altaic,Eurasia,CN,cha,language,wals1
+2497,2497,uzs,uzbe1247,Uzbek,39.0,66.0,Turkic,Altaic,Eurasia,AF UZ,cha,language,wals1
+2507,2507,vie,viet1252,Vietnamese,10.5,106.5,Viet-Muong,Austro-Asiatic,Eurasia,VN,cha,language,wals1
+2523,2523,wmb,wamb1258,Wambaya,-18.6666666667,135.75,Wambayan,Mirndi,Australia,AU,other,language,wals1
+2561,2561,cym,wels1247,Welsh,52.0,-3.0,Celtic,Indo-European,Eurasia,GB,te,language,wals1
+2583,2583,wlo,woli1241,Wolio,-5.5,122.75,Celebic,Austronesian,Papunesia,ID,te,language,wals1
+2584,2584,wol,nucl1347,Wolof,15.25,-16.0,Northern Atlantic,Niger-Congo,Africa,SN GM,other,language,wals1
+2593,2593,xho,xhos1239,Xhosa,-32.0,27.0,Bantoid,Niger-Congo,Africa,ZA,te,language,wals1
+2606,2606,sah,yaku1245,Yakut,62.0,130.0,Turkic,Altaic,Eurasia,RU,cha,language,wals1
+2639,2639,jnj,yems1235,Yemsa,7.83333333333,37.3333333333,North Omotic,Afro-Asiatic,Africa,ET,cha,language,wals1
+2655,2655,yor,yoru1245,Yoruba,8.0,4.33333333333,Defoid,Niger-Congo,Africa,NG BJ,te,language,wals1
+2667,2667,esu,cent2127,Yup'ik (Central),59.5,-160.0,Eskimo,Eskimo-Aleut,North America,US,cha,language,wals1
+2692,2692,dje,zarm1239,Zarma,13.8333333333,2.16666666667,Songhay,Songhay,Africa,NE,other,language,wals1
+2700,2700,zoc,copa1236,Zoque (Copainalá),17.0,-93.25,Mixe-Zoque,Mixe-Zoque,North America,MX,other,language,wals1
+2705,2705,zul,zulu1248,Zulu,-30.0,30.0,Bantoid,Niger-Congo,Africa,ZA,other,language,wals1
