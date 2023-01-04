@@ -3,7 +3,7 @@
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/allspice",
           "Pimenta dioica",
           "Myrtaceae",
           "S. Mexico to C. America; Caribbean",
@@ -17,7 +17,7 @@
           2.846
         ],
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/clove",
           "Syzygium aromaticum",
           "Myrtaceae",
           "Moluccas (Indonesia)",
@@ -48,7 +48,7 @@
       ],
       "marker": {
         "color": "rgb(95, 70, 144)",
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": [
           2.846,
           11.0
@@ -71,15 +71,15 @@
       "type": "scattergeo",
       "textfont": {
         "color": "black",
-        "family": "Raleway",
-        "size": 16
+        "family": "Serif",
+        "size": 14
       },
       "textposition": "middle right"
     },
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/anise",
           "Pimpinella anisum",
           "Apiaceae",
           "E. Mediterranean; W. Asia",
@@ -93,7 +93,7 @@
           12.5
         ],
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/asafoetida",
           "Ferula foetida",
           "Apiaceae",
           "Iran; W. and C. Asia",
@@ -107,7 +107,7 @@
           2.125
         ],
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/caraway",
           "Carum carvi",
           "Apiaceae",
           "Mediterranean; Eurasia",
@@ -121,7 +121,7 @@
           2.851
         ],
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/coriander",
           "Coriandrum sativum",
           "Apiaceae",
           "Mediterranean; W. Asia; India; SW As",
@@ -135,7 +135,7 @@
           17.0
         ],
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/cumin",
           "Cuminum cyminum",
           "Apiaceae",
           "W. \\& C. Asia; India ",
@@ -149,7 +149,7 @@
           10.667
         ],
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/dill",
           "Anethum graveolens",
           "Apiaceae",
           "Nort Africa; West Asia",
@@ -163,7 +163,7 @@
           14.182
         ],
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/fennel",
           "Foeniculum vulgare",
           "Apiaceae",
           "Med",
@@ -209,7 +209,7 @@
       ],
       "marker": {
         "color": "rgb(29, 105, 150)",
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": [
           12.5,
           2.125,
@@ -242,15 +242,15 @@
       "type": "scattergeo",
       "textfont": {
         "color": "black",
-        "family": "Raleway",
-        "size": 16
+        "family": "Serif",
+        "size": 14
       },
       "textposition": "middle right"
     },
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/cardamom",
           "Elettaria cardamomum",
           "Zingiberaceae",
           "India",
@@ -264,7 +264,7 @@
           5.5
         ],
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/ginger",
           "Zingiber officinale",
           "Zingiberaceae",
           "South East Asia; India (secondary)",
@@ -278,7 +278,7 @@
           10.75
         ],
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/turmeric",
           "Curcuma longa",
           "Zingiberaceae",
           "India",
@@ -312,7 +312,7 @@
       ],
       "marker": {
         "color": "rgb(56, 166, 165)",
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": [
           5.5,
           10.75,
@@ -337,15 +337,15 @@
       "type": "scattergeo",
       "textfont": {
         "color": "black",
-        "family": "Raleway",
-        "size": 16
+        "family": "Serif",
+        "size": 14
       },
       "textposition": "middle right"
     },
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/cassia",
           "Cinnamomum cassia",
           "Lauraceae",
           "Southeast China",
@@ -359,7 +359,7 @@
           17.0
         ],
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/cinnamon",
           "Cinnamomum verum",
           "Lauraceae",
           "Sri Lanka; SW. India",
@@ -390,7 +390,7 @@
       ],
       "marker": {
         "color": "rgb(15, 133, 84)",
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": [
           17.0,
           28.0
@@ -413,15 +413,15 @@
       "type": "scattergeo",
       "textfont": {
         "color": "black",
-        "family": "Raleway",
-        "size": 16
+        "family": "Serif",
+        "size": 14
       },
       "textposition": "middle right"
     },
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/chile",
           "Capsicum annuum",
           "Solanaceae",
           "Central America",
@@ -449,7 +449,7 @@
       ],
       "marker": {
         "color": "rgb(115, 175, 72)",
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": [
           19.143
         ],
@@ -470,15 +470,15 @@
       "type": "scattergeo",
       "textfont": {
         "color": "black",
-        "family": "Raleway",
-        "size": 16
+        "family": "Serif",
+        "size": 14
       },
       "textposition": "middle right"
     },
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/fenugreek",
           "Trigonella foenum-graecum",
           "Fabaceae",
           "S Eur; W As",
@@ -506,7 +506,7 @@
       ],
       "marker": {
         "color": "rgb(237, 173, 8)",
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": [
           19.0
         ],
@@ -527,15 +527,15 @@
       "type": "scattergeo",
       "textfont": {
         "color": "black",
-        "family": "Raleway",
-        "size": 16
+        "family": "Serif",
+        "size": 14
       },
       "textposition": "middle right"
     },
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/long_pepper",
           "Piper longum",
           "Piperaceae",
           "E. Himalaya to S. China; Indo-China",
@@ -549,7 +549,7 @@
           2.7
         ],
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/pepper",
           "Piper nigrum",
           "Piperaceae",
           "Malabar coast (South India)",
@@ -580,7 +580,7 @@
       ],
       "marker": {
         "color": "rgb(225, 124, 5)",
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": [
           2.7,
           39.0
@@ -603,15 +603,15 @@
       "type": "scattergeo",
       "textfont": {
         "color": "black",
-        "family": "Raleway",
-        "size": 16
+        "family": "Serif",
+        "size": 14
       },
       "textposition": "middle right"
     },
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/mace",
           "Myristica fragrans",
           "Myristicaceae",
           "Moluccas (Indonesia)",
@@ -625,7 +625,7 @@
           16.0
         ],
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/nutmeg",
           "Myristica fragrans",
           "Myristicaceae",
           "Moluccas (Indonesia)",
@@ -656,7 +656,7 @@
       ],
       "marker": {
         "color": "rgb(204, 80, 62)",
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": [
           16.0,
           16.0
@@ -679,15 +679,15 @@
       "type": "scattergeo",
       "textfont": {
         "color": "black",
-        "family": "Raleway",
-        "size": 16
+        "family": "Serif",
+        "size": 14
       },
       "textposition": "middle right"
     },
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/saffron",
           "Crocus sativus",
           "Iridaceae",
           "Greece",
@@ -715,7 +715,7 @@
       ],
       "marker": {
         "color": "rgb(148, 52, 110)",
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": [
           10.0
         ],
@@ -736,15 +736,15 @@
       "type": "scattergeo",
       "textfont": {
         "color": "black",
-        "family": "Raleway",
-        "size": 16
+        "family": "Serif",
+        "size": 14
       },
       "textposition": "middle right"
     },
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/Sichuan_pepper",
           "Zanthoxylum bungeanum",
           "Rutaceae",
           "China",
@@ -772,7 +772,7 @@
       ],
       "marker": {
         "color": "rgb(111, 64, 112)",
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": [
           2.1
         ],
@@ -793,15 +793,15 @@
       "type": "scattergeo",
       "textfont": {
         "color": "black",
-        "family": "Raleway",
-        "size": 16
+        "family": "Serif",
+        "size": 14
       },
       "textposition": "middle right"
     },
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/star_anise",
           "Illicium verum",
           "Schisandraceae",
           "SE. China; Vietnam",
@@ -829,7 +829,7 @@
       ],
       "marker": {
         "color": "rgb(102, 102, 102)",
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": [
           3.0
         ],
@@ -850,15 +850,15 @@
       "type": "scattergeo",
       "textfont": {
         "color": "black",
-        "family": "Raleway",
-        "size": 16
+        "family": "Serif",
+        "size": 14
       },
       "textposition": "middle right"
     },
     {
       "customdata": [
         [
-          "https://partigabor.github.io/spice/book/",
+          "https://partigabor.github.io/spice/book/materials/vanilla",
           "Vanilla planifolia",
           "Orchidaceae",
           "Tropical America",
@@ -886,7 +886,7 @@
       ],
       "marker": {
         "color": "rgb(95, 70, 144)",
-        "opacity": 0.75,
+        "opacity": 0.7,
         "size": [
           4.643
         ],
@@ -907,8 +907,8 @@
       "type": "scattergeo",
       "textfont": {
         "color": "black",
-        "family": "Raleway",
-        "size": 16
+        "family": "Serif",
+        "size": 14
       },
       "textposition": "middle right"
     }
@@ -1747,15 +1747,15 @@
         "scale": 1
       },
       "bgcolor": "rgba(255,255,255,0)",
-      "coastlinecolor": "gainsboro",
+      "coastlinecolor": "#85929e",
       "coastlinewidth": 1,
-      "framecolor": "gainsboro",
+      "framecolor": "#85929e",
       "framewidth": 1,
-      "lakecolor": "white",
-      "landcolor": "gainsboro",
-      "oceancolor": "white",
+      "lakecolor": "#ebedef",
+      "landcolor": "#aeb6bf",
+      "oceancolor": "#ebedef",
       "resolution": 110,
-      "rivercolor": "white",
+      "rivercolor": "#ebedef",
       "riverwidth": 1,
       "showcoastlines": true,
       "showframe": true,
@@ -1769,16 +1769,16 @@
         "text": "family",
         "font": {
           "color": "black",
-          "family": "Raleway",
-          "size": 18
+          "family": "Serif",
+          "size": 16
         }
       },
       "tracegroupgap": 0,
       "itemsizing": "constant",
       "font": {
         "color": "black",
-        "family": "Raleway",
-        "size": 16
+        "family": "Serif",
+        "size": 14
       },
       "bgcolor": "rgba(255,255,255,0.5)",
       "orientation": "v",
@@ -1796,15 +1796,15 @@
     },
     "hoverlabel": {
       "font": {
-        "size": 16,
-        "family": "Raleway"
+        "size": 14,
+        "family": "Serif"
       }
     },
     "title": {
       "font": {
         "color": "black",
-        "family": "Raleway",
-        "size": 20
+        "family": "Serif",
+        "size": 18
       },
       "text": "",
       "x": 0.5,
