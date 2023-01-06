@@ -1,0 +1,139 @@
+    Arabic: حَرِير‎ m (ḥarīr)
+
+        Egyptian Arabic: حرير‎ m (ḥarīr)
+        Hijazi Arabic: حرير‎ m (ḥarīr)
+
+    Armenian: մետաքս (hy) (metakʿs)
+    Aromanian: mãtase f
+    Assamese: ৰেচম (resom)
+    Asturian: seda f
+    Azerbaijani: ipək (az)
+    Banjarese: lalamas
+    Basque: zeta (eu)
+    Belarusian: шоўк m (šoŭk), ядва́б m (jadváb)
+    Bengali: রেশম (reśôm)
+    Breton: seiz (br) m
+    Bulgarian: коприна (bg) f (koprina), (dated) сви́ла (bg) f (svíla)
+    Catalan: seda (ca) f
+    Central Melanau: seterak
+    Chakma: please add this translation if you can
+    Chechen: чилла (čilla)
+    Chinese:
+
+        Dungan: сыщян (sɨxi͡an) (絲線)
+        Mandarin: 絲 (zh), 丝 (zh) (sī), 絲線 (zh), 丝线 (zh) (sīxiàn)
+
+    Coptic: ϣⲉⲛⲥ m (šens)
+    Cornish: owrlin m
+    Corsican: seta f
+    Czech: hedvábí (cs) n
+    Dalmatian: saita f
+    Danish: silke (da) c
+    Dhivehi: ފަށުި‎ (faṣuި)
+    Dutch: zijde (nl) f (from silk worm); rag (nl) n, spinrag (nl) n (from spider)
+    Esperanto: silko
+    Estonian: siid
+    Faroese: silki n
+    Finnish: silkki (fi)
+    French: soie (fr) f
+    Friulian: sede f
+    Galician: seda (gl) f, serda f
+    Georgian: აბრეშუმი (ka) (abrešumi)
+    German: Seide (de) f
+    Greek: μέταξα (el) f (métaxa), (colloquial) μετάξι (el) n (metáxi)
+    Gujarati: રેશમ n (reśam)
+    Hausa: tsamiya
+    Hebrew: מֶשִׁי‎ (he) m (meshi)
+    Hindi: रेशम (hi) m (reśam)
+    Hungarian: selyemszál
+    Icelandic: silki (is)
+    Ido: silko (io)
+    Indonesian: sutra (id)
+    Interlingua: seta
+    Irish: síoda m, seiric f
+    Italian: seta (it) f
+    Japanese: 絹 (ja) (きぬ, kinu), 絹糸 (ja) (きぬいと, kinuito)
+    Kannada: ರೇಷ್ಮೆ (kn) (rēṣme)
+    Kazakh: жібек (kk) (jıbek)
+    Khmer: សូត្រ (km) (sout)
+    Korean: 명주(明紬) (ko) (myeongju), 비단(緋緞) (ko) (bidan)
+    Kurdish:
+
+        Central Kurdish: ئاوریشم‎ (ku) (awrîşm)
+        Northern Kurdish: hevrîşm (ku) m, herîr (ku) m
+
+    Kyrgyz: жибек (ky) (jibek)
+    Lao: ໄໝ (lo) (mai)
+    Latin: sēricum n, bombȳx m
+    Latvian: zīds m
+    Lithuanian: šilkas
+    Luxembourgish: Seid f
+    Lü: ᦺᦖ (ṁay), ᦶᦣ (hae)
+    Macedonian: свила f (svila)
+    Malay: sutera (ms)
+    Malayalam: പട്ട് (ml) (paṭṭŭ)
+    Manchu: ᠰᡳᡵᡤᡝ
+    Manx: sheeidey m
+    Mirandese: please add this translation if you can
+    Mongolian:
+
+        Cyrillic: торгон утас (torgon utas)
+
+    Ngazidja Comorian: hariri class 9/10
+    North Frisian: siisen
+    Norwegian:
+
+        Bokmål: silke m
+        Nynorsk: silke m
+
+    Occitan: seda (oc) f
+    Old East Slavic: шьлкъ m (šĭlkŭ)
+    Oriya: ରେଶମ (or) (reśômô)
+    Oromo: hariira
+    Ossetian: цыллӕ (cyllæ)
+    Ottoman Turkish: ایپك‎ (ipek), ابرشیم‎ (ibrişim), حریر‎ (harir), قز‎ (kazz)
+    Pashto: ورېښم‎ (ps) m (wreӽᶕm)
+    Persian: ابریشم‎ (fa) (abrišam), حریر‎ (fa) (harir)
+    Polish: jedwab (pl) m
+    Portuguese: seda (pt) f
+    Rohingya: recóm
+    Romanian: mătase (ro) f
+    Romansch: saida f, seida f, seda f
+    Russian: шёлк (ru) m (šolk)
+    Samogitian: sėlks
+    Sardinian: seda f, sera f, seta f
+    Scottish Gaelic: sìoda m
+    Serbo-Croatian:
+
+        Cyrillic: сви́ла f
+        Roman: svíla (sh) f
+
+    Sicilian: sita (scn)
+    Slovak: hodváb m
+    Slovene: svila (sl) f
+    Somali: xariir (so) m
+    Southern Altai: торко (torko), јибек (ǰibek)
+    Spanish: seda (es) f
+    Sundanese: sutra
+    Swahili: hariri (sw)
+    Swedish: silke (sv) n
+    Tajik: абрешим (tg) (abrešim), ҳарир (harir)
+    Tamil: பட்டு (ta) (paṭṭu)
+    Telugu: పట్టు (te) (paṭṭu)
+    Thai: ไหม (th) (mǎi)
+    Tibetan: དར (dar)
+    Turkish: ipek (tr)
+    Turkmen: ýüpek
+    Udi: абришӀум (abriš:um)
+    Ukrainian: шовк m (šovk), єдва́б (uk) m (jedváb)
+    Urdu: ریشم‎ m (rēśam)
+    Uyghur: يىپەك‎‎ (yipek‎)
+    Uzbek: ipak (uz), harir (uz)
+    Vietnamese: tơ (vi), chỉ tơ
+    Vilamovian: zajd f
+    Volapük: sadin (vo)
+    Walloon: soye (wa) f
+    Waray-Waray: sida
+    Welsh: sidan (cy) m
+    Westrobothnian: selk n, siltj n
+    Yiddish: זײַד‎ f (zayd)
