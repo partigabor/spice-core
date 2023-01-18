@@ -1,6 +1,6 @@
 def load():
     # Import
-    import pandas as pd
+    # import pandas as pd
 
     # Path
     path = "data/"
