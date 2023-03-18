@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "direction": "clockwise",
+      "hole": 0.25,
+      "labels": [
+        "fenugreek",
+        "mace",
+        "clove",
+        "dill",
+        "nutmeg",
+        "vanilla",
+        "long pepper",
+        "saffron",
+        "ginger",
+        "caraway",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other"
+      ],
+      "marker": {
+        "colors": [
+          "rgb(95, 70, 144)",
+          "rgb(29, 105, 150)",
+          "rgb(56, 166, 165)",
+          "rgb(15, 133, 84)",
+          "rgb(115, 175, 72)",
+          "rgb(237, 173, 8)",
+          "rgb(225, 124, 5)",
+          "rgb(204, 80, 62)",
+          "rgb(148, 52, 110)",
+          "rgb(111, 64, 112)",
+          "rgb(102, 102, 102)"
+        ]
+      },
+      "sort": false,
+      "values": [
+        4,
+        4,
+        5,
+        6,
+        6,
+        7,
+        10,
+        11,
+        11,
+        11,
+        11,
+        12,
+        12,
+        12,
+        13,
+        13,
+        14,
+        14,
+        14,
+        15,
+        15,
+        19,
+        21,
+        25,
+        30,
+        44
+      ],
+      "type": "pie",
+      "textinfo": "label"
+    }
+  ],
+  "layout": {
+    "template": {
+      "layout": {
+        "colorway": [
+          "#5f4690",
+          "#1d6996",
+          "#38a6a5",
+          "#0f8554",
+          "#73af48",
+          "#edad08",
+          "#e17c05",
+          "#cc503e",
+          "#94346e",
+          "#6f4070",
+          "#666666",
+          "#000000"
+        ]
+      }
+    },
+    "font": {
+      "family": "Serif",
+      "color": "black",
+      "size": 32
+    },
+    "legend": {
+      "font": {
+        "size": 32
+      },
+      "bgcolor": "rgba(255,255,255,0.5)",
+      "x": 0,
+      "y": 1,
+      "xanchor": "right",
+      "yanchor": "top",
+      "orientation": "v"
+    },
+    "width": 800,
+    "height": 1000,
+    "showlegend": false
+  }
+}

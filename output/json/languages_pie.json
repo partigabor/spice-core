@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "domain": {
+        "x": [
+          0.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          1.0
+        ]
+      },
+      "hole": 0.45,
+      "hovertemplate": "language=%{label}<br>total=%{value}<extra></extra>",
+      "labels": [
+        "English",
+        "Chinese",
+        "Arabic"
+      ],
+      "legendgroup": "",
+      "name": "",
+      "showlegend": true,
+      "values": [
+        154,
+        120,
+        86
+      ],
+      "type": "pie",
+      "direction": "clockwise",
+      "sort": false,
+      "textinfo": "value"
+    }
+  ],
+  "layout": {
+    "template": {
+      "layout": {
+        "colorway": [
+          "#5f4690",
+          "#1d6996",
+          "#38a6a5",
+          "#0f8554",
+          "#73af48",
+          "#edad08",
+          "#e17c05",
+          "#cc503e",
+          "#94346e",
+          "#6f4070",
+          "#666666",
+          "#000000"
+        ]
+      }
+    },
+    "legend": {
+      "tracegroupgap": 0,
+      "bgcolor": "rgba(255,255,255,0.5)",
+      "y": 1,
+      "x": 0,
+      "xanchor": "left",
+      "yanchor": "bottom",
+      "orientation": "h"
+    },
+    "margin": {
+      "t": 0,
+      "r": 0,
+      "l": 0,
+      "b": 0
+    },
+    "piecolorway": [
+      "#1d6996",
+      "#edad08",
+      "#0f8554"
+    ],
+    "font": {
+      "family": "Serif",
+      "color": "black",
+      "size": 40
+    },
+    "annotations": [
+      {
+        "showarrow": false,
+        "text": "360",
+        "x": 0.5,
+        "y": 0.5,
+        "font": {
+          "size": 40
+        }
+      }
+    ],
+    "width": 600,
+    "height": 600
+  }
+}

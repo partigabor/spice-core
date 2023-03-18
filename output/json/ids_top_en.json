@@ -1,0 +1,208 @@
+{
+  "data": [
+    {
+      "labels": [
+        "chile",
+        "Sichuan pepper",
+        "false cardamom",
+        "cassia",
+        "allspice",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other"
+      ],
+      "marker": {
+        "colors": [
+          "#5f4690",
+          "#1d6996",
+          "#38a6a5",
+          "#0f8554",
+          "#73af48",
+          "#666666"
+        ]
+      },
+      "textinfo": "value",
+      "textposition": "inside",
+      "values": [
+        20,
+        17,
+        14,
+        13,
+        9,
+        9,
+        7,
+        6,
+        6,
+        6,
+        6,
+        5,
+        4,
+        4,
+        4,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "type": "pie",
+      "direction": "clockwise",
+      "hole": 0.45,
+      "sort": false
+    },
+    {
+      "labels": [
+        "chile",
+        "Sichuan pepper",
+        "false cardamom",
+        "cassia",
+        "allspice",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other"
+      ],
+      "marker": {
+        "colors": [
+          "rgba(255,255,255,0)",
+          "rgba(255,255,255,0)",
+          "rgba(255,255,255,0)",
+          "rgba(255,255,255,0)",
+          "rgba(255,255,255,0)",
+          "rgba(255,255,255,0)"
+        ]
+      },
+      "textinfo": "label",
+      "textposition": "outside",
+      "values": [
+        20,
+        17,
+        14,
+        13,
+        9,
+        9,
+        7,
+        6,
+        6,
+        6,
+        6,
+        5,
+        4,
+        4,
+        4,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "type": "pie",
+      "direction": "clockwise",
+      "hole": 0.45,
+      "sort": false
+    }
+  ],
+  "layout": {
+    "template": {
+      "layout": {
+        "colorway": [
+          "#5f4690",
+          "#1d6996",
+          "#38a6a5",
+          "#0f8554",
+          "#73af48",
+          "#edad08",
+          "#e17c05",
+          "#cc503e",
+          "#94346e",
+          "#6f4070",
+          "#666666",
+          "#000000"
+        ]
+      }
+    },
+    "margin": {
+      "r": 0,
+      "t": 0,
+      "l": 0,
+      "b": 0
+    },
+    "font": {
+      "family": "Serif",
+      "color": "black",
+      "size": 28
+    },
+    "legend": {
+      "font": {
+        "size": 26
+      },
+      "bgcolor": "rgba(255,255,255,0.5)",
+      "x": 0,
+      "y": 1,
+      "xanchor": "right",
+      "yanchor": "top",
+      "orientation": "v"
+    },
+    "width": 600,
+    "height": 500,
+    "showlegend": false,
+    "annotations": [
+      {
+        "showarrow": false,
+        "text": "English",
+        "x": 0.5,
+        "y": 0.5,
+        "font": {
+          "size": 28
+        }
+      }
+    ]
+  }
+}

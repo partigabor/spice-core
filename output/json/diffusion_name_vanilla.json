@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<br>vanilla <br>English<br>Indo-European",
+        "<br>vainilla<br>Spanish<br>Indo-European",
+        "<br>v\u0101g\u012bna<br>Latin<br>Indo-European"
+      ],
+      "lat": [
+        52.0,
+        40.0,
+        41.9026
+      ],
+      "line": {
+        "color": "#8f1329",
+        "dash": "solid",
+        "width": 4
+      },
+      "lon": [
+        0.0,
+        -4.0,
+        12.4502
+      ],
+      "marker": {
+        "color": "#8f1329",
+        "line": {
+          "color": "white",
+          "width": 1
+        },
+        "opacity": 0.7,
+        "size": 20,
+        "symbol": "circle"
+      },
+      "mode": "markers+text",
+      "name": "vanilla",
+      "opacity": 0.7,
+      "text": [
+        "vanilla ",
+        "vainilla",
+        "v\u0101g\u012bna"
+      ],
+      "textfont": {
+        "color": "black",
+        "family": "Serif",
+        "size": 20
+      },
+      "textposition": "middle right",
+      "type": "scattergeo"
+    }
+  ],
+  "layout": {
+    "template": {
+      "layout": {
+        "colorway": [
+          "#5f4690",
+          "#1d6996",
+          "#38a6a5",
+          "#0f8554",
+          "#73af48",
+          "#edad08",
+          "#e17c05",
+          "#cc503e",
+          "#94346e",
+          "#6f4070",
+          "#666666",
+          "#000000"
+        ]
+      }
+    },
+    "geo": {
+      "lataxis": {
+        "dtick": 10,
+        "gridcolor": "#ededed",
+        "gridwidth": 0.5,
+        "showgrid": true
+      },
+      "lonaxis": {
+        "dtick": 10,
+        "gridcolor": "#ededed",
+        "gridwidth": 0.5,
+        "showgrid": true
+      },
+      "projection": {
+        "rotation": {
+          "lat": 30,
+          "lon": 60,
+          "roll": 0
+        },
+        "type": "orthographic",
+        "scale": 1
+      },
+      "bgcolor": "rgba(255,255,255,0)",
+      "coastlinecolor": "gainsboro",
+      "coastlinewidth": 1,
+      "countrycolor": "gainsboro",
+      "countrywidth": 1,
+      "framecolor": "gainsboro",
+      "framewidth": 1,
+      "lakecolor": "white",
+      "landcolor": "gainsboro",
+      "oceancolor": "white",
+      "resolution": 110,
+      "rivercolor": "white",
+      "riverwidth": 1,
+      "scope": "world",
+      "showcoastlines": true,
+      "showcountries": false,
+      "showframe": true,
+      "showlakes": true,
+      "showland": true,
+      "showocean": true,
+      "showrivers": true,
+      "showsubunits": false,
+      "subunitcolor": "gainsboro",
+      "subunitwidth": 1
+    },
+    "hoverlabel": {
+      "font": {
+        "size": 14,
+        "family": "Serif"
+      }
+    },
+    "legend": {
+      "font": {
+        "color": "black",
+        "family": "Serif",
+        "size": 14
+      },
+      "title": {
+        "font": {
+          "color": "black",
+          "family": "Serif",
+          "size": 16
+        }
+      },
+      "bgcolor": "rgba(255,255,255,0.5)",
+      "orientation": "v",
+      "traceorder": "normal",
+      "x": 0,
+      "xanchor": "left",
+      "y": 0,
+      "yanchor": "bottom"
+    },
+    "margin": {
+      "b": 0,
+      "l": 0,
+      "r": 0,
+      "t": 0
+    },
+    "title": {
+      "font": {
+        "color": "black",
+        "family": "Serif",
+        "size": 20
+      },
+      "text": "Etymological stages of vanilla",
+      "x": 0.5,
+      "xanchor": "center",
+      "y": 0.99,
+      "yanchor": "top"
+    },
+    "paper_bgcolor": "rgba(255,255,255,0)",
+    "plot_bgcolor": "rgba(255,255,255,0)",
+    "showlegend": true,
+    "annotations": [
+      {
+        "font": {
+          "color": "lightgray",
+          "family": "font_family",
+          "size": 8
+        },
+        "name": "copyright",
+        "opacity": 0.9,
+        "showarrow": false,
+        "text": "\u00a9 G\u00e1bor Parti, 2022",
+        "x": 0.5,
+        "xref": "paper",
+        "y": 0,
+        "yref": "paper"
+      }
+    ],
+    "images": [
+      {
+        "sizex": 0.15,
+        "sizey": 0.15,
+        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PolyU_Logo_with_wordmark.svg/1024px-PolyU_Logo_with_wordmark.svg.png",
+        "x": 1,
+        "xanchor": "right",
+        "y": 0,
+        "yanchor": "bottom"
+      }
+    ]
+  }
+}
