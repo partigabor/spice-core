@@ -1,3 +1,3 @@
 # spice-core
 
-Core database and code for various spice projects, e.g. `phd-thesis` and `spice` website.
+Core database and code for various projects, including `phd-thesis` and the accompanying `spice` website.
